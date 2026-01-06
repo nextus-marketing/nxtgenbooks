@@ -9,7 +9,7 @@
       <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
       <link rel="canonical" href="{{ url()->current() }}" />
       <!-- Place favicon.ico in the root directory -->
-      <link rel="shortcut icon" type="image/x-icon" href="/frontend/assets/img/logo/favicon.png">
+      <link rel="shortcut icon" type="image/x-icon" href="/frontend/my-img/favicon.png">
 
       <!-- CSS here -->
       <link rel="stylesheet" href="/frontend/assets/css/bootstrap.css">
