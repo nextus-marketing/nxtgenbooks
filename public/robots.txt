@@ -2,4 +2,4 @@ User-agent: *
 Disallow:  /login
 Allow:  /
 
-Sitemap: https://titantally.com/sitemap.xml
+Sitemap: https://nxtgenbooks.com/sitemap.xml

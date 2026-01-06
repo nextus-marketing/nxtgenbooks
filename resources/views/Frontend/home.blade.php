@@ -1,5 +1,6 @@
 @extends('layouts.frontend')
-@section('title') Professional Accounting & Bookkeeping Services | NxtGen Books @endsection
+@section('title') NxtGen Books | Smart Learning Resources for Future-Ready Minds
+ @endsection
 @section('content')
 <style>
    .pt-120 {
