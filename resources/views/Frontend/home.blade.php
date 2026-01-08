@@ -26,7 +26,7 @@
                   <div class="col-xxl-7 col-lg-6">
                      <div class="tp-hero-content-2 p-relative">
                         <div class="tp-hero-title-wrapper-2">
-                           <span class="tp-hero-subtitle-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Welcome to NxtGen Bookssssss</span>
+                           <span class="tp-hero-subtitle-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Welcome to NxtGen Books</span>
                            <h2 class="tp-hero-title-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Smart Bookkeeping & Accounting Solutions for Modern Businesses</h2>
                            <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">NxtGen Books delivers reliable bookkeeping, accounting, and financial management services tailored for today’s businesses.</p>
                         </div>
