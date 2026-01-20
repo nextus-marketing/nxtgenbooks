@@ -17,100 +17,100 @@
 <main>
 
          <!-- hero area start -->
-         <section id="home" class="tp-hero-area-2 tp-hero-height-2 p-relative pt-120 pb-110" data-bg-color="#F4F5FA">
-            <div class="tp-hero-bg-2">
-               <img src="/frontend/assets/img/hero/home-2/shape-3.png" alt="">
-            </div>
-            <div class="container">
-               <div class="row">
-                  <div class="col-xxl-7 col-lg-6">
-                     <div class="tp-hero-content-2 p-relative">
-                        <div class="tp-hero-title-wrapper-2">
-                           <span class="tp-hero-subtitle-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Welcome to NxtGen Books</span>
-                           <h2 class="tp-hero-title-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Smart Bookkeeping & Accounting Solutions for Modern Businesses</h2>
-                           <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">NxtGen Books delivers reliable bookkeeping, accounting, and financial management services tailored for today’s businesses.</p>
-                        </div>
-                        <div class="tp-hero-button-wrapper-2 d-flex flex-wrap wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                           <div class="tp-hero-btn mr-30">
-                              <a class="tp-btn" href="#0">Get Started <span><i class="fa-regular fa-plus"></i></span></a>
-                           </div>
-                           <div class="tp-hero-call-2 d-flex align-items-center">
-                           <span>
-                              <svg width="37" height="36" viewBox="0 0 37 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                 <path d="M29.6887 13.0168H25.1079C25.1079 13.0168 27.5332 8.62052 27.9335 8.12946C28.3382 7.63298 28.7214 7.94264 28.758 8.38069C28.7945 8.81866 28.7397 15.1698 28.7397 15.1698M22.9387 15.2699C22.9387 15.2699 19.4019 15.3144 19.2343 15.2585C19.0667 15.2027 19.503 14.9077 21.8218 11.5945C22.2549 10.9757 22.4932 10.4537 22.5947 10.0163L22.6306 9.73512C22.6306 8.70778 21.7978 7.875 20.7705 7.875C19.8665 7.875 19.1132 8.51977 18.9453 9.37455" stroke="url(#paint0_linear_3043_11)" stroke-width="2.10938" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                 <path d="M32.7861 26.6714L29.7163 23.6016C28.7645 22.6497 27.2212 22.6497 26.2694 23.6016L23.6842 26.1867C21.5426 28.3284 18.0577 27.4539 13.7745 23.1708C9.49123 18.8875 8.61683 15.4026 10.7585 13.2611L13.3436 10.6759C14.2954 9.72406 14.2954 8.18084 13.3436 7.22902L10.2737 4.15918C9.32192 3.20736 7.7787 3.20736 6.82688 4.15918L4.24177 6.74429C-0.279393 11.2655 2.32723 20.3406 9.46592 27.4793C16.6046 34.618 25.6798 37.2246 30.201 32.7035L32.7862 30.1183C33.7379 29.1665 33.7379 27.6233 32.7861 26.6714Z" stroke="url(#paint1_linear_3043_11)" stroke-width="2.10938" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                 <path d="M34.2298 21.7512C35.2892 19.7749 35.8906 17.5164 35.8906 15.1172C35.8906 7.35068 29.5946 1.05469 21.8281 1.05469C19.4289 1.05469 17.1704 1.65614 15.1941 2.71554M32.7861 26.6715L29.7163 23.6017C28.7645 22.6498 27.2212 22.6498 26.2694 23.6017L23.6842 26.1868C21.5426 28.3285 18.0577 27.454 13.7745 23.1709C9.49123 18.8876 8.61683 15.4027 10.7585 13.2611L13.3436 10.676C14.2954 9.72415 14.2954 8.18093 13.3436 7.22911L10.2737 4.15927C9.32192 3.20745 7.7787 3.20745 6.82688 4.15927L4.24177 6.74437C-0.279393 11.2655 2.32723 20.3407 9.46592 27.4794C16.6046 34.6181 25.6798 37.2247 30.201 32.7035L32.7862 30.1184C33.7379 29.1665 33.7379 27.6234 32.7861 26.6715Z" stroke="url(#paint2_linear_3043_11)" stroke-width="2.10938" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                 <defs>
-                                 <linearGradient id="paint0_linear_3043_11" x1="18.9453" y1="11.5808" x2="29.6887" y2="11.5808" gradientUnits="userSpaceOnUse">
-                                 <stop stop-color="#004D6E"/>
-                                 <stop offset="1" stop-color="#00ACCC"/>
-                                 </linearGradient>
-                                 <linearGradient id="paint1_linear_3043_11" x1="2" y1="19.1953" x2="33.5" y2="19.1953" gradientUnits="userSpaceOnUse">
-                                 <stop stop-color="#004D6E"/>
-                                 <stop offset="1" stop-color="#00ACCC"/>
-                                 </linearGradient>
-                                 <linearGradient id="paint2_linear_3043_11" x1="2" y1="18" x2="35.8906" y2="18" gradientUnits="userSpaceOnUse">
-                                 <stop stop-color="#004D6E"/>
-                                 <stop offset="1" stop-color="#00ACCC"/>
-                                 </linearGradient>
-                                 </defs>
-                              </svg>
-                           </span>
-                           <div class="tp-hero-call-inner-2">
-                              <p>Need help?</p>
-                              <span><a href="tel:5550111">(808) 555-0111</a></span>
-                           </div>
-                           </div>
-                        </div>
-                     </div>
+   <section id="home" class="tp-hero-area-2 tp-hero-height-2 p-relative pt-120 pb-110" data-bg-color="#F4F5FA">
+      <div class="tp-hero-bg-2">
+         <img src="/frontend/assets/img/hero/home-2/shape-3.png" alt="">
+      </div>
+      <div class="container">
+         <div class="row">
+            <div class="col-xxl-7 col-lg-6">
+               <div class="tp-hero-content-2 p-relative">
+                  <div class="tp-hero-title-wrapper-2">
+                     <span class="tp-hero-subtitle-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Welcome to NxtGen Books</span>
+                     <h2 class="tp-hero-title-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Smart Bookkeeping & Accounting Solutions for Modern Businesses</h2>
+                     <p class=" wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">NxtGen Books delivers reliable bookkeeping, accounting, and financial management services tailored for today’s businesses.</p>
                   </div>
-                  <div class="col-xxl-5 col-lg-6">
-                     <div class="tp-hero-thumb-2 d-flex p-relative wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                        <div class="tp-hero-img-1">
-                           <img  src="/frontend/assets/img/hero/home-2/img-1.jpg" alt="">
-                        </div>
-                        <div class="tp-hero-img-2">
-                           <img  src="/frontend/assets/img/hero/home-2/img-2.jpg" alt="">
-                        </div>
-                        <div class="tp-hero-shape-2">
-                           <img class="shape-1" src="/frontend/assets/img/hero/home-2/shape-1.png" alt="">
-                           <img class="shape-2" src="/frontend/assets/img/hero/home-2/shape-2.png" alt="">
-                           <div class="shape-3">
-                              <img src="/frontend/assets/img/hero/home-2/shape-4.png" alt="">
-                           </div>
-                        </div>
+                  <div class="tp-hero-button-wrapper-2 d-flex flex-wrap wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
+                     <div class="tp-hero-btn mr-30">
+                        <a class="tp-btn" href="#0">Get Started <span><i class="fa-regular fa-plus"></i></span></a>
+                     </div>
+                     <div class="tp-hero-call-2 d-flex align-items-center">
+                     <span>
+                        <svg width="37" height="36" viewBox="0 0 37 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M29.6887 13.0168H25.1079C25.1079 13.0168 27.5332 8.62052 27.9335 8.12946C28.3382 7.63298 28.7214 7.94264 28.758 8.38069C28.7945 8.81866 28.7397 15.1698 28.7397 15.1698M22.9387 15.2699C22.9387 15.2699 19.4019 15.3144 19.2343 15.2585C19.0667 15.2027 19.503 14.9077 21.8218 11.5945C22.2549 10.9757 22.4932 10.4537 22.5947 10.0163L22.6306 9.73512C22.6306 8.70778 21.7978 7.875 20.7705 7.875C19.8665 7.875 19.1132 8.51977 18.9453 9.37455" stroke="url(#paint0_linear_3043_11)" stroke-width="2.10938" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                           <path d="M32.7861 26.6714L29.7163 23.6016C28.7645 22.6497 27.2212 22.6497 26.2694 23.6016L23.6842 26.1867C21.5426 28.3284 18.0577 27.4539 13.7745 23.1708C9.49123 18.8875 8.61683 15.4026 10.7585 13.2611L13.3436 10.6759C14.2954 9.72406 14.2954 8.18084 13.3436 7.22902L10.2737 4.15918C9.32192 3.20736 7.7787 3.20736 6.82688 4.15918L4.24177 6.74429C-0.279393 11.2655 2.32723 20.3406 9.46592 27.4793C16.6046 34.618 25.6798 37.2246 30.201 32.7035L32.7862 30.1183C33.7379 29.1665 33.7379 27.6233 32.7861 26.6714Z" stroke="url(#paint1_linear_3043_11)" stroke-width="2.10938" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                           <path d="M34.2298 21.7512C35.2892 19.7749 35.8906 17.5164 35.8906 15.1172C35.8906 7.35068 29.5946 1.05469 21.8281 1.05469C19.4289 1.05469 17.1704 1.65614 15.1941 2.71554M32.7861 26.6715L29.7163 23.6017C28.7645 22.6498 27.2212 22.6498 26.2694 23.6017L23.6842 26.1868C21.5426 28.3285 18.0577 27.454 13.7745 23.1709C9.49123 18.8876 8.61683 15.4027 10.7585 13.2611L13.3436 10.676C14.2954 9.72415 14.2954 8.18093 13.3436 7.22911L10.2737 4.15927C9.32192 3.20745 7.7787 3.20745 6.82688 4.15927L4.24177 6.74437C-0.279393 11.2655 2.32723 20.3407 9.46592 27.4794C16.6046 34.6181 25.6798 37.2247 30.201 32.7035L32.7862 30.1184C33.7379 29.1665 33.7379 27.6234 32.7861 26.6715Z" stroke="url(#paint2_linear_3043_11)" stroke-width="2.10938" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                           <defs>
+                           <linearGradient id="paint0_linear_3043_11" x1="18.9453" y1="11.5808" x2="29.6887" y2="11.5808" gradientUnits="userSpaceOnUse">
+                           <stop stop-color="#004D6E"/>
+                           <stop offset="1" stop-color="#00ACCC"/>
+                           </linearGradient>
+                           <linearGradient id="paint1_linear_3043_11" x1="2" y1="19.1953" x2="33.5" y2="19.1953" gradientUnits="userSpaceOnUse">
+                           <stop stop-color="#004D6E"/>
+                           <stop offset="1" stop-color="#00ACCC"/>
+                           </linearGradient>
+                           <linearGradient id="paint2_linear_3043_11" x1="2" y1="18" x2="35.8906" y2="18" gradientUnits="userSpaceOnUse">
+                           <stop stop-color="#004D6E"/>
+                           <stop offset="1" stop-color="#00ACCC"/>
+                           </linearGradient>
+                           </defs>
+                        </svg>
+                     </span>
+                     <div class="tp-hero-call-inner-2">
+                        <p>Need help?</p>
+                        <span><a href="tel:5550111">(808) 555-0111</a></span>
+                     </div>
                      </div>
                   </div>
                </div>
             </div>
-         </section>
+            <div class="col-xxl-5 col-lg-6">
+               <div class="tp-hero-thumb-2 d-flex p-relative wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+                  <div class="tp-hero-img-1">
+                     <img  src="/frontend/assets/img/hero/home-2/img-1.jpg" alt="">
+                  </div>
+                  <div class="tp-hero-img-2">
+                     <img  src="/frontend/assets/img/hero/home-2/img-2.jpg" alt="">
+                  </div>
+                  <div class="tp-hero-shape-2">
+                     <img class="shape-1" src="/frontend/assets/img/hero/home-2/shape-1.png" alt="">
+                     <img class="shape-2" src="/frontend/assets/img/hero/home-2/shape-2.png" alt="">
+                     <div class="shape-3">
+                        <img src="/frontend/assets/img/hero/home-2/shape-4.png" alt="">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
          <!-- hero area end -->
 
 
          <!-- about area start -->
-         <section id="about" class="tp-about-area-2 p-relative pt-130 pb-110">
-  <div class="container">
-    <div class="row">
+   <section id="about" class="tp-about-area-2 p-relative pt-130 pb-110">
+            <div class="container">
+               <div class="row">
       
       <!-- LEFT IMAGES -->
-      <div class="col-lg-6">
-        <div class="tp-about-thumb-wrapper-2 p-relative wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
-          <img class="img-1" src="/frontend/assets/img/about/home-2/img-2.jpg" alt="">
-          <div class="img-2">
-            <img src="/frontend/assets/img/about/home-2/img-1.jpg" alt="">
-          </div>
-          <img class="img-3" src="/frontend/assets/img/hero/home-2/shape-2.png" alt="">
+                  <div class="col-lg-6">
+                  <div class="tp-about-thumb-wrapper-2 p-relative wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
+                     <img class="img-1" src="/frontend/assets/img/about/home-2/img-2.jpg" alt="">
+                     <div class="img-2">
+                        <img src="/frontend/assets/img/about/home-2/img-1.jpg" alt="">
+                     </div>
+                     <img class="img-3" src="/frontend/assets/img/hero/home-2/shape-2.png" alt="">
 
-          <div class="tp-about-progressbar">
-            <div class="circular tl-progress">
-              <input type="text" class="knob" value="0" data-rel="70" data-linecap="round"
-                data-width="100" data-height="100" data-bgcolor="#ECEEF3"
-                data-fgcolor="#00A3C3" data-thickness=".07" data-readonly="true" disabled />
-            </div>
-            <h3>Daily Activity</h3>
-          </div>
-        </div>
-      </div>
+                     <div class="tp-about-progressbar">
+                        <div class="circular tl-progress">
+                        <input type="text" class="knob" value="0" data-rel="70" data-linecap="round"
+                           data-width="100" data-height="100" data-bgcolor="#ECEEF3"
+                           data-fgcolor="#00A3C3" data-thickness=".07" data-readonly="true" disabled />
+                        </div>
+                        <h3>Daily Activity</h3>
+                     </div>
+                  </div>
+                  </div>
 
       <!-- RIGHT CONTENT -->
       <div class="col-lg-6">
@@ -179,23 +179,22 @@
 
          <!-- process area start -->
          <section class="tp-process-arae-2 pb-90">
-   <div class="container">
-      <!-- Section Title -->
-      <div class="row">
-         <div class="col-lg-12">
-            <div class="tp-process-title-wrapper-2 text-center mb-70">
-               <span class="tp-section-title-pre">work process</span>
-               <h3 class="tp-section-title">
-                  Where your financial dreams <br> become reality
-               </h3>
+         <div class="container">
+         <!-- Section Title -->
+         <div class="row">
+            <div class="col-lg-12">
+               <div class="tp-process-title-wrapper-2 text-center mb-70">
+                  <span class="tp-section-title-pre">work process</span>
+                  <h3 class="tp-section-title">
+                     Where Your Financial Dreams <br> Become Reality
+                  </h3>
+               </div>
             </div>
          </div>
-      </div>
 
       <!-- Process Cards -->
       <div class="tp-process-wrapper-2 p-relative">
          <div class="row justify-content-center">
-
             <!-- Card 1 -->
             <div class="col-lg-4 col-md-6 col-sm-6">
                <div class="tp-process-item-2 text-center p-relative mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
@@ -285,32 +284,26 @@
                   </div>
                </div>
             </div>
-
          </div>
       </div>
    </div>
 </section>
-
-         <!-- process area end -->
-
+<!-- process area end -->
 
          <!-- service area start -->
-         <section id="service" class="tp-service-area-2 pt-120 pb-145" data-bg-color="#F6F6F9">
-   <div class="container">
-
+      <section id="service" class="tp-service-area-2 pt-120 pb-145" data-bg-color="#F6F6F9">
+      <div class="container">
       <div class="row">
          <div class="col-lg-12">
             <div class="tp-service-title-wrapper-2 text-center">
                <span class="tp-section-title-pre">Our services</span>
-               <h3 class="tp-section-title">Invest in your future <br> with us</h3>
+               <h3 class="tp-section-title">Invest In Your Future <br> With Us</h3>
             </div>
          </div>
       </div>
-
       <!-- Slider -->
       <div class="swiper industry-slider">
          <div class="swiper-wrapper">
-
             <!-- Card 1 -->
             <div class="swiper-slide">
                <div class="industry-card">
@@ -371,9 +364,9 @@ var swiper = new Swiper(".industry-slider", {
    slidesPerView: 4,
    spaceBetween: 30,
    loop: true,
-   speed: 3000,              // smooth continuous speed
+   speed: 3000,            
    autoplay: {
-      delay: 0,              // no pause between slides
+      delay: 0,          
       disableOnInteraction: false,
    },
    breakpoints: {
@@ -393,14 +386,9 @@ var swiper = new Swiper(".industry-slider", {
 });
 </script>
 
-
-         <!-- service area end -->
-
-        
-
          <!-- blog area start -->
-         <section id="blog" class="tp-blog-area-2 pt-90 pb-90">
-    <div class="container">
+      <section id="blog" class="tp-blog-area-2 pt-90 pb-90">
+         <div class="container">
 
         <!-- Section Title -->
         <div class="row">
@@ -408,7 +396,7 @@ var swiper = new Swiper(".industry-slider", {
                 <div class="tp-blog-title-wrapper-2 text-center mb-40">
                     <span class="tp-section-title-pre">New blogs</span>
                     <h3 class="tp-section-title">
-                        Secure your financial <br> future with us
+                        Secure Your Financial <br> Future With Us
                     </h3>
                 </div>
             </div>
@@ -437,7 +425,7 @@ var swiper = new Swiper(".industry-slider", {
                             <li>Business registration help</li>
                         </ul>
                     </div>
-</br>
+                     </br>
                     <div class="tp-pricing-btn">
                         <a href="#contact" class="tp-btn">Contact Now</a>
                     </div>
@@ -514,7 +502,8 @@ var swiper = new Swiper(".industry-slider", {
                             <li>KPI dashboard setup</li>
                             <li>Financial reports</li>
                         </ul>
-                    </div></br>
+                    </div>
+                     </br>
                     <div class="tp-pricing-btn">
                         <a href="#contact" class="tp-btn">Contact Now</a>
                     </div>
@@ -539,13 +528,11 @@ var swiper = new Swiper(".industry-slider", {
                             <li>On-demand reports</li>
                         </ul>
                     </div>
-
                     <div class="tp-pricing-btn">
                         <a href="#contact" class="tp-btn">Contact Now</a>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
@@ -621,8 +608,6 @@ var swiper = new Swiper(".industry-slider", {
          </section>
          <!-- testimonial area end -->
 
-
-
          <!-- cta area start -->
         <section class="tp-cta-area-2 p-relative pt-75 pb-80" data-background="/frontend/my-img/bg.png" id="contact">
             <div class="container">
@@ -643,6 +628,5 @@ var swiper = new Swiper(".industry-slider", {
             </div>
         </section>
          <!-- cta area end -->
-
       </main>
 @endsection
