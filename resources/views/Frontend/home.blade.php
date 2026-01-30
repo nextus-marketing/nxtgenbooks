@@ -93,7 +93,7 @@
                <div class="row">
       
       <!-- LEFT IMAGES -->
-                  <div class="col-lg-6">
+               <div class="col-lg-6">
                   <div class="tp-about-thumb-wrapper-2 p-relative wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">
                      <img class="img-1" src="/frontend/assets/img/about/home-2/img-2.jpg" alt="">
                      <div class="img-2">
@@ -109,8 +109,8 @@
                         </div>
                         <h3>Daily Activity</h3>
                      </div>
-                     </div>
                   </div>
+               </div>
 
       <!-- RIGHT CONTENT -->
       <div class="col-lg-6">
@@ -387,8 +387,8 @@ var swiper = new Swiper(".industry-slider", {
 </script>
 
          <!-- blog area start -->
-      <section id="blog" class="tp-blog-area-2 pt-90 pb-90">
-         <div class="container">
+   <section id="blog" class="tp-blog-area-2 pt-90 pb-90">
+      <div class="container">
 
         <!-- Section Title -->
         <div class="row">
@@ -534,8 +534,8 @@ var swiper = new Swiper(".industry-slider", {
                 </div>
             </div>
         </div>
-    </div>
-</section>
+      </div>
+   </section>
 
          <!-- blog area end -->
 
