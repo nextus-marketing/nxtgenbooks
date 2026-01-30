@@ -1,61 +1,67 @@
 @extends('layouts.frontend')
-
 @section('title')
     404 Not Found | NxtGen Books
 @endsection
-
 @section('content')
 
-<!-- Breadcrumb -->
 <section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
-    <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-sm-6">
-                <div class="breadcrumb__content">
-                    <h3 class="breadcrumb__title">404 Not Found</h3>
-                </div>
+   <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-sm-6">
+            <div class="breadcrumb__content">
+               <h3 class="breadcrumb__title">404 Not Found</h3>
             </div>
-            <div class="col-sm-6">
-                <div class="breadcrumb__content">
-                    <div class="breadcrumb__list text-center text-sm-end">
-                        <span><a href="/">Home</a></span>
-                        <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
-                        <span>404 Not Found</span>
-                    </div>
-                </div>
+         </div>
+         <div class="col-sm-6">
+            <div class="breadcrumb__content">
+            <div class="breadcrumb__list text-center text-sm-end">
+               <span><a href="/">Home</a></span>
+               <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
+               <span>404 Not Found</span>
             </div>
-        </div>
-    </div>
+            </div>
+         </div>
+      </div>
+   </div>
 </section>
 
-<!-- 404 Content -->
-<section class="tp-service-area-2 pt-50 pb-50" data-bg-color="#F6F6F9">
+<!-- ================= 404 CONTENT ================= -->
+<section class="tp-process-area pt-120 pb-120">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
-                <div class="tp-service-title-wrapper-2 text-center">
+                <div class="tp-process-title-wrapper-2 text-center">
 
-                    <span class="tp-section-title-pre">Oops! Page Not Found</span>
-
-                    <h1 style="font-size:120px; font-weight:700; color:#16243E; line-height:1;">
+                    <!-- Big 404 -->
+                    <span style="
+                        font-size:120px;
+                        font-weight:800;
+                        color:#16243E;
+                        display:block;
+                        line-height:1;
+                    ">
                         404
-                    </h1>
+                    </span>
 
-                    <h3 class="tp-section-title mb-20">
-                        The page you’re looking for doesn’t exist
+                    <!-- Main Title -->
+                    <h3 class="tp-section-title mt-20 mb-15">
+                        Oops! Page Not Found
                     </h3>
 
-                    <p class="mb-35" style="max-width:600px; margin:0 auto; color:#555;">
-                        It looks like the page may have been moved, deleted, or never existed.
-                        Don’t worry — let’s get you back on track.
+                    <!-- Description -->
+                    <p class="mb-40" style="font-size:18px; color:#6b7280;">
+                        The page you’re looking for doesn’t exist or has been moved.
+                        Please check the URL or return to the homepage.
                     </p>
 
-                    <div class="d-flex justify-content-center gap-3 flex-wrap mt-3">
-                        <a class="tp-btn" href="/">
-                            <i class="fas fa-home" style="margin-right:8px;"></i>
-                            Back to Home
-                        </a>
+                    <!-- Button -->
+                    <div class="tp-about-btn-wrapper-2 d-flex justify-content-center">
+                        <div class="tp-about-btn-2">
+                            <a href="/" class="tp-btn">
+                              <i class="fa-solid fa-house"></i>  Back To Home
+                            </a>
+                        </div>
                     </div>
 
                 </div>
