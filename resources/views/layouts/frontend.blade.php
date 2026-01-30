@@ -10,7 +10,6 @@
       <link rel="canonical" href="{{ url()->current() }}" />
       <!-- Place favicon.ico in the root directory -->
       <link rel="shortcut icon" type="image/x-icon" href="/frontend/my-img/favicon.png">
-
       <!-- CSS here -->
       <link rel="stylesheet" href="/frontend/assets/css/bootstrap.css">
       <link rel="stylesheet" href="/frontend/assets/css/animate.css">
@@ -22,27 +21,12 @@
       <link rel="stylesheet" href="/frontend/assets/css/spacing.css">
       <link rel="stylesheet" href="/frontend/assets/css/main.css">
       <link rel="stylesheet" href="/frontend/assets/css/my.css">
-    <!-- Swiper CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
-
-<!-- Swiper JS -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-
+      <!-- Swiper CSS -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+      <!-- Swiper JS -->
+      <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
    </head>
    <body>
-      <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-
-
-      <!-- pre loader area start -->
-      <!-- <div id="loading">
-         <div id="loading-center">
-            <div class="preloader"></div>
-         </div>  
-      </div> -->
-      <!-- pre loader area end -->
-
 
       <!-- back to top start -->
       <div class="back-to-top-wrapper">
@@ -53,8 +37,6 @@
          </button>
       </div>
       <!-- back to top end -->
-
-
 
       <!-- offcanvas area start -->
       <div class="offcanvas__area">
@@ -235,13 +217,9 @@
             </div>
          </footer>
          <!-- footer area end -->
-<a href="tel:+1234567890" class="call-now-btn">
-    <i class="fas fa-phone"></i>
-</a>
-
-
-
-
+         <a href="tel:+1234567890" class="call-now-btn">
+            <i class="fas fa-phone"></i>
+         </a>
       <!-- JS here -->
       <script src="/frontend/assets/js/vendor/jquery.js"></script>
       <script src="/frontend/assets/js/vendor/waypoints.js"></script>

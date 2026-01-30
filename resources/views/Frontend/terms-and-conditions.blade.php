@@ -5,37 +5,38 @@
 <style>
     h4 {
     font-size: 20px;
-}
-@media only screen and (min-width: 1200px) and (max-width: 1399px) {
-    .tp-postbox-title2 {
-        font-size: 25px;
     }
-}
+    @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+        .tp-postbox-title2 {
+            font-size: 25px;
+        }
+    }
 </style>
-        <section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
-            <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
-            <div class="container">
-               <div class="row align-items-center">
-                  <div class="col-sm-6">
-                     <div class="breadcrumb__content">
-                        <h3 class="breadcrumb__title">Terms And Conditions</h3>
-                     </div>
-                  </div>
-                  <div class="col-sm-6">
-                     <div class="breadcrumb__content">
-                     <div class="breadcrumb__list text-center text-sm-end">
-                        <span><a href="/">Home</a></span>
-                        <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
-                        <span>Terms And Conditions</span>
-                     </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
 
-        <section>
-        <div class="container pt-70 pb-50">
+<section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
+    <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-sm-6">
+                <div class="breadcrumb__content">
+                <h3 class="breadcrumb__title">Terms And Conditions</h3>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="breadcrumb__content">
+                <div class="breadcrumb__list text-center text-sm-end">
+                <span><a href="/">Home</a></span>
+                <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
+                <span>Terms And Conditions</span>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container pt-70 pb-50">
         <div>
             <p>Expert in Keeping Track of Finances. This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and informs You about Your privacy rights and how the law protects You.
             We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
@@ -58,7 +59,7 @@
             <p><strong>Website</strong> – NxtGen Books, accessible at <a href="https://nxtgenbooks.com/">https://nxtgenbooks.com/</a> </p>
             <p><strong>You</strong> – The individual or entity using or accessing the Service.</p>
             </br>
-           <h4>Acknowledgment</h4>
+        <h4>Acknowledgment</h4>
             <p>These Terms and Conditions govern the use of the Service and form the agreement between You and the Company.
 
                 Your access and use of the Service depend on Your acceptance of these Terms. If You disagree with any part, You may not use the Service.
@@ -67,7 +68,7 @@
 
                 Your use of the Service is also subject to Our Privacy Policy, which You should read carefully.</p>
             </br>
-             <h4>Links To Other Websites</h4>
+            <h4>Links To Other Websites</h4>
             <p>The Service may contain links to third-party websites not owned or controlled by the Company.
 
                 The Company is not responsible for the content, privacy policies, or practices of any third-party websites. You agree that the Company is not liable for any damage caused by using such websites.
