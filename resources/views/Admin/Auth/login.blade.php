@@ -1,77 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
+@extends('layouts.frontend')
 
-<head>
-    
-    <title>My Dashbord</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="handheldfriendly" content="true" />
-    <meta name="MobileOptimized" content="width" />
-    <meta name="description" content="Mordenize" />
-    <meta name="author" content="" />
-    <meta name="keywords" content="Mordenize" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <!-- <link rel="shortcut icon" type="image/png" href="/backend/dist/images/logos/favicon.ico" /> -->
-    <link id="themeColors" rel="stylesheet" href="/backend/dist/css/style.min.css" />
-</head>
+@section('title')
+    404 Not Found | NxtGen Books
+@endsection
 
-<body>
-    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-sidebartype="full"
-        data-sidebar-position="fixed" data-header-position="fixed">
-        <div class="position-relative overflow-hidden radial-gradient min-vh-100">
-            <div class="position-relative z-index-5">
-                <div class="row">
-                    <div class="col-xl-7 col-xxl-8">
-                        <a href="./index.html" class="text-nowrap logo-img d-block px-14 py-9 w-100">
-                            <!-- <img src="" width="180" alt="" style="filter: invert(0%) sepia(100%) saturate(0%) hue-rotate(234deg) brightness(96%) contrast(107%);"> -->
-                        </a>
-                        <div class="d-none d-xl-flex align-items-center justify-content-center"
-                            style="height: calc(100vh - 80px);">
-                            <img src="/backend/dist/images/backgrounds/login-security.svg" alt=""
-                                class="img-fluid" width="500">
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-xxl-4">
-                        <div
-                            class="authentication-login min-vh-100 bg-body row justify-content-center align-items-center p-4">
-                            <div class="col-sm-8 col-md-6 col-xl-9">
-                                <div class="text-center">
-                                <!-- Add dashbord logo here     -->
-                                <img src="/backend/dashbord-logo.png" width="180" alt="" />
-                                    <br /><br />
-                                    <h2 class="mb-3 fs-7 fw-bolder">Welcome to My Dashbord</h2>
-                                    <p class=" mb-9">Your Admin Dashboard</p>
-                                </div>
-                                <form method="POST" action="{{ route('login') }}">
-                                    @csrf
-                                    <div class="mb-3">
-                                        <label for="exampleInputEmail1" class="form-label">E-Mail</label>
-                                        <input type="email" class="form-control" name="email" />
-                                    </div>
-                                    <div class="mb-4">
-                                        <label for="exampleInputPassword1" class="form-label">Password</label>
-                                        <input type="password" class="form-control" name="password">
-                                    </div>
-                                    <button type="submit" class="btn btn-primary w-100 py-8 mb-4 rounded-2">Sign
-                                        In</button>
-                                </form>
-                            </div>
-                        </div>
+@section('content')
+
+<!-- Breadcrumb -->
+<section class="breadcrumb__area pt-165 pb-150 p-relative z-index-1 fix" data-bg-color="#16243E">
+    <div class="breadcrumb__bg" data-background="/frontend/my-img/bredcrum.png"></div>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-sm-6">
+                <div class="breadcrumb__content">
+                    <h3 class="breadcrumb__title">404 Not Found</h3>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="breadcrumb__content">
+                    <div class="breadcrumb__list text-center text-sm-end">
+                        <span><a href="/">Home</a></span>
+                        <span class="dvdr"><i class="fa-regular fa-angle-right"></i></span>
+                        <span>404 Not Found</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</section>
 
-    <script src="/backend/dist/libs/jquery/dist/jquery.min.js"></script>
-    <script src="/backend/dist/libs/simplebar/dist/simplebar.min.js"></script>
-    <script src="/backend/dist/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="/backend/dist/js/app.min.js"></script>
-    <script src="/backend/dist/js/app.init.js"></script>
-    <script src="/backend/dist/js/app-style-switcher.js"></script>
-    <script src="/backend/dist/js/sidebarmenu.js"></script>
-    <script src="/backend/dist/js/custom.js"></script>
-</body>
+<!-- 404 Content -->
+<section class="tp-service-area-2 pt-50 pb-50" data-bg-color="#F6F6F9">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="tp-service-title-wrapper-2 text-center">
 
-</html>
+                    <span class="tp-section-title-pre">Oops! Page Not Found</span>
+
+                    <h1 style="font-size:120px; font-weight:700; color:#16243E; line-height:1;">
+                        404
+                    </h1>
+
+                    <h3 class="tp-section-title mb-20">
+                        The page you’re looking for doesn’t exist
+                    </h3>
+
+                    <p class="mb-35" style="max-width:600px; margin:0 auto; color:#555;">
+                        It looks like the page may have been moved, deleted, or never existed.
+                        Don’t worry — let’s get you back on track.
+                    </p>
+
+                    <div class="d-flex justify-content-center gap-3 flex-wrap mt-3">
+                        <a class="tp-btn" href="/">
+                            <i class="fas fa-home" style="margin-right:8px;"></i>
+                            Back to Home
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@endsection

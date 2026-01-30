@@ -109,7 +109,7 @@
                         </div>
                         <h3>Daily Activity</h3>
                      </div>
-                  </div>
+                     </div>
                   </div>
 
       <!-- RIGHT CONTENT -->
