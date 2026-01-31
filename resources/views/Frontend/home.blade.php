@@ -281,7 +281,7 @@
       <!-- process area end -->
 
       <!-- service area start -->
-      <section id="service" class="tp-service-area-2 pt-120 pb-145" data-bg-color="#F6F6F9">
+         <section id="service" class="tp-service-area-2 pt-120 pb-145" data-bg-color="#F6F6F9">
             <div class="container">
                   <div class="row">
                      <div class="col-lg-12">
@@ -342,11 +342,10 @@
                            <img src="/frontend/my-img/industry/colleges-and-uni.png" alt="Education">
                         </div>
                      </div>
-
                   </div>
                </div>
             </div>
-      </section>
+         </section>
 
       <script>
          var swiper = new Swiper(".industry-slider", {
@@ -376,24 +375,22 @@
       </script>
 
       <!-- blog area start -->
-         <section id="blog" class="tp-blog-area-2 pt-90 pb-90">
+      <section id="blog" class="tp-blog-area-2 pt-90 pb-90">
             <div class="container">
-
-            <!-- Section Title -->
-            <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-blog-title-wrapper-2 text-center mb-40">
-                        <span class="tp-section-title-pre">New blogs</span>
-                        <h3 class="tp-section-title">
-                              Secure Your Financial <br> Future With Us
-                        </h3>
+               <!-- Section Title -->
+               <div class="row">
+                     <div class="col-lg-12">
+                        <div class="tp-blog-title-wrapper-2 text-center mb-40">
+                           <span class="tp-section-title-pre">New blogs</span>
+                           <h3 class="tp-section-title">
+                                 Secure Your Financial <br> Future With Us
+                           </h3>
+                        </div>
                      </div>
-                  </div>
-            </div>
+               </div>
 
-            <!-- Pricing Cards -->
-            <div class="row justify-content-center gy-4">
-
+               <!-- Pricing Cards -->
+               <div class="row justify-content-center gy-4">
                   <!-- Card 1 -->
                   <div class="col-lg-4 col-md-6 d-flex">
                      <div class="tp-pricing-card w-100 wow fadeInUp">
@@ -523,8 +520,7 @@
                      </div>
                   </div>
             </div>
-            </div>
-         </section>
+      </section>
       <!-- blog area end -->
 
       <!-- testimonial area start -->
